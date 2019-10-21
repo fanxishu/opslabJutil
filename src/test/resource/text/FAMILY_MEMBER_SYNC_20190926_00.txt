@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="GBK"?>
+<record>
+  <family_member>
+    <family_city>592</family_city>
+    <family_account>59228431919</family_account>
+    <action>1</action>
+    <member_city>592</member_city>
+    <msisdn>14700076104</msisdn>
+    <member_type>2</member_type>
+    <call_name>99</call_name>
+    <user_type>11</user_type>
+    <name>z3</name>
+    <exit_reason>1</exit_reason>
+    <request_source>101219</request_source>
+    <accept_time>20190927100324</accept_time>
+    <inure_type>1</inure_type>
+    <operation_id>151892101033</operation_id>
+    <option_deal_id>37001003</option_deal_id>
+    <option_deal_name>家庭型VPN可选包(2018版)</option_deal_name>
+    <inure_time>20190927100324</inure_time>
+    <expire_time>30000101000000</expire_time>
+     <member_inure_time>20190927100324</member_inure_time>
+    <member_expire_time>30000101000000</member_expire_time>
+  </family_member>
+  <family_member>
+    <family_city>593</family_city>
+    <family_account>59228123456</family_account>
+    <action>1</action>
+    <member_city>592</member_city>
+    <msisdn>14700123456</msisdn>
+    <member_type>2</member_type>
+    <call_name>99</call_name>
+    <user_type>11</user_type>
+    <name>z3</name>
+    <exit_reason>1</exit_reason>
+    <request_source>101219</request_source>
+    <accept_time>20190927123456</accept_time>
+    <inure_type>1</inure_type>
+    <operation_id>151892123456</operation_id>
+    <option_deal_id>37001003</option_deal_id>
+    <option_deal_name>家庭型VPN可选包(2018版)</option_deal_name>
+    <inure_time>20190927123456</inure_time>
+    <expire_time>30000101000000</expire_time>
+    <member_inure_time>20190927123456</member_inure_time>
+    <member_expire_time>30000101000000</member_expire_time>
+  </family_member>
+  <family_member>
+    <family_city>593</family_city>
+    <family_account>59228123456</family_account>
+    <action>2</action>
+    <member_city>592</member_city>
+    <msisdn>14700123456</msisdn>
+    
+    <member_inure_time>20190927123456</member_inure_time>
+    <member_expire_time>30000101000000</member_expire_time>
+  </family_member>
+  <family_member>
+    <family_city>593</family_city>
+    <family_account>59228123457</family_account>
+    <action>0</action>
+    <member_city>592</member_city>
+    <msisdn>14700123456</msisdn>
+    
+    <member_inure_time>20190927123456</member_inure_time>
+    <member_expire_time>30000101000000</member_expire_time>
+  </family_member>
+</record>
